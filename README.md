@@ -411,7 +411,7 @@ This command requires Gunicorn to be installed and the Flask instance to be name
 
 Live deployment status: Deploy succeeded.
 
-GitHub Repository: <https://github.com/PitambarN/SWYNEX-API-Project-Setup.git>
+GitHub Repository: <https://github.com/PitambarN/SWYNEX-Deployable-Backend-Service.git>
 Live API Base URL: < https://swynex-api-project-setup.onrender.com>
 
 ## Security Considerations
