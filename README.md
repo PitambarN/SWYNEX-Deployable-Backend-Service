@@ -466,9 +466,9 @@ Send a GET request to /health_check and verify that the API returns a JSON respo
 
 ## 👨‍💻 Author
 
-**###### Name**:Debasis Nayak
+** Name**:Debasis Nayak
 
-**##### Project Name**: Swynex API Project setup
+**Project Name**: Swynex API Project setup
 
 **Description:** This project demonstrates a basic patient management API with PostgreSQL integration and API request handling, developed as part of an internship learning project.
 
