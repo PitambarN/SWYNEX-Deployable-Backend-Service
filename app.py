@@ -339,7 +339,7 @@ def update_patient():
       })
   #key validation
   try:
-      required_fields=['id','name','department','appointment_date']
+      required_fields=['id','name','department','date']
       patient_id=data['id']
       patient_name=data['name']
       department=data['department']
